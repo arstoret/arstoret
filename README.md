@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arstoret
+- 👋 Hi, I’m Ali 
 - 👀 I’m interested in web developing
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on html css java script
